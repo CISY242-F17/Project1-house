@@ -1,14 +1,7 @@
 /**
- * This class represents a simple picture. You can draw the picture using
- * the draw method. But wait, there's more: being an electronic picture, it
- * can be changed. You can set it to black-and-white display and back to
- * colors (only after it's been drawn, of course).
- *
- * This class was written as an early example for teaching Java with BlueJ.
- * 
- * The image that is being represented is a penalty kick on a lovely day 
- * at their local soccer field.The kicker is preparing to take the shoot as 
- * the goalie hopes to save it! A classic situation in soccer.
+ * The image that is being represented is a classic situation in soccer, a 
+ * penalty kick. These two people are playing together on a lovely day at their local soccer field.
+ * The kicker is preparing to take the shoot as the goalie hopes to save it! 
  * 
  * @author  Giovanny Ospina
  * @version 09.15.2017

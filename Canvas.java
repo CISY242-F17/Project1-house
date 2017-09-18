@@ -10,8 +10,10 @@ import java.util.*;
  *
  * @author: Bruce Quig
  * @author: Michael Kšlling (mik)
- *
- * @version 2011.07.31
+ * 
+ * changes: added colors; grey, skyblue
+ * @author  Giovanny Ospina
+ * @version 09.15.2017
  */
 public class Canvas
 {
@@ -136,6 +138,12 @@ public class Canvas
         }
         else if(colorString.equals("green")) {
             graphic.setColor(new Color(80, 160, 60));
+        }
+        else if(colorString.equals("skyblue")) {
+            graphic.setColor(new Color(135, 206, 235));
+        }
+        else if(colorString.equals("grey")) {
+            graphic.setColor(new Color(128, 128, 128));
         }
         else if(colorString.equals("magenta")) {
             graphic.setColor(Color.magenta);

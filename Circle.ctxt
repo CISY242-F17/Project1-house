@@ -15,7 +15,7 @@ comment12.target=void\ changeSize(int)
 comment12.text=\r\n\ Change\ the\ size\ to\ the\ new\ size\ (in\ pixels).\ Size\ must\ be\ >\=\ 0.\r\n
 comment13.params=newColor
 comment13.target=void\ changeColor(java.lang.String)
-comment13.text=\r\n\ Change\ the\ color.\ Valid\ colors\ are\ "red",\ "yellow",\ "blue",\ "green",\r\n\ "magenta"\ and\ "black".\r\n
+comment13.text=\r\n\ Change\ the\ color.\ Valid\ colors\ are\ "red",\ "yellow",\ "blue",\ "green",\r\n\ "magenta",\ "grey",\ "skyblue"\ and\ "black".\r\n
 comment14.params=
 comment14.target=void\ draw()
 comment14.text=\r\n\ Draw\ the\ circle\ with\ current\ specifications\ on\ screen.\r\n
